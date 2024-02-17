@@ -1,0 +1,12 @@
+C:\Users\abdouli aziz\Desktop\AiM\AM.ApplicationCore\bin\Debug\net7.0\AM.ApplicationCore.deps.json
+C:\Users\abdouli aziz\Desktop\AiM\AM.ApplicationCore\bin\Debug\net7.0\AM.ApplicationCore.dll
+C:\Users\abdouli aziz\Desktop\AiM\AM.ApplicationCore\bin\Debug\net7.0\AM.ApplicationCore.pdb
+C:\Users\abdouli aziz\Desktop\AiM\AM.ApplicationCore\obj\Debug\net7.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdouli aziz\Desktop\AiM\AM.ApplicationCore\obj\Debug\net7.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\abdouli aziz\Desktop\AiM\AM.ApplicationCore\obj\Debug\net7.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\abdouli aziz\Desktop\AiM\AM.ApplicationCore\obj\Debug\net7.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\abdouli aziz\Desktop\AiM\AM.ApplicationCore\obj\Debug\net7.0\AM.ApplicationCore.sourcelink.json
+C:\Users\abdouli aziz\Desktop\AiM\AM.ApplicationCore\obj\Debug\net7.0\AM.ApplicationCore.dll
+C:\Users\abdouli aziz\Desktop\AiM\AM.ApplicationCore\obj\Debug\net7.0\refint\AM.ApplicationCore.dll
+C:\Users\abdouli aziz\Desktop\AiM\AM.ApplicationCore\obj\Debug\net7.0\AM.ApplicationCore.pdb
+C:\Users\abdouli aziz\Desktop\AiM\AM.ApplicationCore\obj\Debug\net7.0\ref\AM.ApplicationCore.dll
