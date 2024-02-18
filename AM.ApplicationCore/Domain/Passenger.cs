@@ -16,6 +16,7 @@ namespace AM.ApplicationCore.Domain
         public DateTime BirthDate { get; set; }
         public string EmailAdress { get; set; }
         public string PhoneNumber { get; set; }
+        public ICollection<Flight> Flights { get; set; }
         public virtual void PassengerType()
         {
             Console.WriteLine("I am a passenger");
@@ -34,6 +35,7 @@ namespace AM.ApplicationCore.Domain
                 return (prenom == FirstName && nom == LastName);
 
         }
+        
 
 
     }

@@ -23,7 +23,7 @@ namespace AM.ApplicationCore.Domain
         public ICollection<Flight> Flights { get; set; }
         public override string ToString()
         {
-            return $"PlaneId: {PlaneId}, ManufactureDate: {ManufactureDate}, " +
+            return $"ManufactureDate: {ManufactureDate}, " +
                    $"Capacity: {Capacity}, PlaneType: {PlaneType}";
         }
     }

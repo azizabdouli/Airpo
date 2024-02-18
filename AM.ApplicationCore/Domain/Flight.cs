@@ -15,12 +15,14 @@ namespace AM.ApplicationCore.Domain
         public DateTime EffectiveArrival { get; set; }
         public int EstimatedDuration { get; set; }
         public  Plane plane { get; set; }
+        public ICollection<Passenger> Passengers { get; set; }
         public override string ToString()
         {
-            return $"FlightId: {FlightId}, Destination: {Destination}, Departure: {Departure}, " +
+            return $" Destination: {Destination}, Departure: {Departure}, " +
                    $"FlightDate: {FlightDate}, EffectiveArrival: {EffectiveArrival}, " +
                    $"EstimatedDuration: {EstimatedDuration}";
         }
+
 
     }
 }
